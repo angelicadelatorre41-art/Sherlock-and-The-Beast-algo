@@ -1,1 +1,1 @@
-# Sherlock-and-The-Beast-algo
+# Sherlock-and-The-Beast-algo The program constructs the largest "decent number" made of digits 5 and 3, where the count of 5’s is divisible by 3 and the count of 3’s is divisible by 5. It reduces the number of 5’s until this condition is met, printing -1 if no valid combination exists.
